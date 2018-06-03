@@ -1,7 +1,51 @@
-PamD
+75.42.75.132 (someone interested in POW and RSA prime hide-and-seek!)
 
-Added early description:
+(IP is from Nevada City, CA, near Sacramento)
+https://www.google.com/maps/place/Nevada+City,+CA+95959/@39.0530318,-121.9710619,8z/data=!4m5!3m4!1s0x809b7a7134408b49:0x37bfaa9a5ce0c3cd!8m2!3d39.2615606!4d-121.0160594
+
+Added 2 revisions to wiki articles for RSA, and earliest description of Bitcoin POW:
+
+Added "Prime Number Hide-And-Seek:" prefix to this link:
+http://www.muppetlabs.com/~breadbox/txt/rsa.html
+
+quote:
+
+  Notice what we have here. We take a number, T, and raise it to a power, and when we do the calculation in modulus arithmetic, we wind up with T again. In short, we have a recipe for a function that returns its own input (presuming that R has been chosen ahead of time, and that T is verified to be relatively prime to R). 
+
+
+Added early Bitcoin description:
 https://en.wikipedia.org/w/index.php?title=Bitcoin&diff=306304462&oldid=275850009
+
+{
+  "ip": "75.42.75.132",
+  "type": "ipv4",
+  "continent_code": "NA",
+  "continent_name": "North America",
+  "country_code": "US",
+  "country_name": "United States",
+  "region_code": "CA",
+  "region_name": "California",
+  "city": "Nevada City",
+  "zip": "95959",
+  "latitude": 39.3496,
+  "longitude": -120.8766,
+  "location": {
+    "geoname_id": 5376502,
+    "capital": "Washington D.C.",
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "country_flag": "http://assets.ipstack.com/flags/us.svg",
+    "country_flag_emoji": "🇺🇸",
+    "country_flag_emoji_unicode": "U+1F1FA U+1F1F8",
+    "calling_code": "1",
+    "is_eu": false
+  }
+}
 
 '''Bitcoin''' is an open source peer-to-peer electronic cash system developed by Satoshi Nakamoto that's completely [[P2P|decentralized]], with no central server or trusted parties. Users hold the [[cryptography|crypto]] keys to their own money and transact directly with each other, with the help of the network to check for double-spending.
  	+	
