@@ -10,7 +10,7 @@ It's highly likely that Satoshi either **DIED**, lost the keys to his kingdom th
 
 1. **Satoshi is living and maintaining his silence** -- I was very skeptical at the start of this search, but now I may have to eat my hat. I believe I know who Satoshi is. I consider Satoshi a friend and I will not betray him. I will end my public search logs with that promise, to respect his privacy.
 
-2. **Satoshi is dead** -- If Satoshi is dead, He was Hal Finney. Hal may have played a little joke on all of us and made up his "friend" Satoshi. His loss is one of the saddest in the history of computer science, and in fact all of history.
+2. **Satoshi is dead** -- If Satoshi is dead, He was Hal Finney. Hal may have played a little joke on all of us and made up his "friend" Satoshi. His loss is one of the saddest in the history of computer science, and in fact all of history. R.I.P., Hal!
 
 3. **Satoshi is a government** -- If Satoshi was/is a government, it is probably either the NSA or KGB in my opinion. Either option opens up a series of questions that could fill a hundred spy novels.
 
