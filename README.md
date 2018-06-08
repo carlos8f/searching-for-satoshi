@@ -1,6 +1,6 @@
 # searching-for-satoshi
 
-i'm was looking, and i think i found you. thank you and i'll see you soon. Cheers!
+i was looking, and i think i found you. thank you and i'll see you soon. Cheers!
 
 ## Here was my initial hyphothesis and outlook.
 
