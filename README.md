@@ -14,7 +14,7 @@ It's highly likely that Satoshi either **DIED**, lost the keys to his kingdom th
 
 3. **Satoshi is a government** -- If Satoshi was/is a government, it is probably either the NSA or KGB in my opinion. Either option opens up a series of questions that could fill a hundred spy novels.
 
-4. **Satoshi lost his keys** -- I don't believe this for a second. This category includes Craig Wright, who couldn't even produce a valid crypto signature in his "confession", so he obviously doesn't understand even the basics. The minimum I would trust is a full GPG signature of a testimonial document, signed by Satoshi's PGP key, which [is known](https://s8f.org/1528469389/index.html). A close second would be an improvised signature from the private key of Satoshi's mining addresses. The real Satoshi would have no problem producing such a signature.
+4. **Satoshi lost his keys** -- I don't believe this for a second. This category includes Craig Wright, who couldn't even produce a valid crypto signature in his "confession", so he obviously doesn't understand even the basics. The minimum I would trust is a full GPG signature of a testimonial document, signed by Satoshi's PGP key, which [is known](https://gist.github.com/carlos8f/f455d1b62de8884efec7036fd257cc13). A close second would be an improvised signature from the private key of Satoshi's mining addresses. The real Satoshi would have no problem producing such a signature.
 
 
 
